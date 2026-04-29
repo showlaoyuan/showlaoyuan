@@ -1,75 +1,76 @@
 # Hi, I'm 원광원 (YUAN GUANGYUAN) 👋
 
-I am a Computer Engineering and Chinese-Korean Translation student at Korea University of Foreign Studies.  
-My interests focus on Artificial Intelligence, Natural Language Processing, Large Language Models, and bilingual learning tools.
+I am a Computer Engineering and Chinese-Korean Translation student at Korea University of Foreign Studies.
 
-I am especially interested in how AI can help people overcome language barriers in real learning environments.
+I am interested in Artificial Intelligence, bilingual learning tools, financial NLP, and practical project-based learning.
+
+I am especially interested in how AI and language technologies can support real learning situations, especially for students who study in multilingual environments.
 
 ---
 
 ## 🚀 Current Focus
 
-- 🤖 **Financial NLP Capstone Project**  
-  Building a financial text analysis project using datasets such as FPB, FiQA, and FinQA, with a focus on data preprocessing, unified dataset construction, sentiment analysis, and FinBERT-based modeling.
+- **Financial NLP Capstone Project**  
+  I am working on a graduation capstone project related to financial text analysis and Large Language Models.  
+  My current work mainly focuses on dataset organization, unified data formatting, basic sentiment analysis experiments, FinBERT-related training/evaluation practice, and project documentation.
 
-- 🌐 **Hansorri Website Optimization**  
-  Improving the Hansorri website as an AI-powered bilingual learning assistant for Chinese-Korean learners, including UI refinement, content structure, and user experience improvements.
+- **Hansorri — Korean Classroom Learning Assistant Prototype**  
+  Hansorri is a team project that I am working on with a friend. It is a Korean classroom learning assistant prototype designed to help learners better understand class content, review key information, and organize learning records.  
+  The project has not been officially launched yet. My current work mainly focuses on improving the project website draft, refining homepage content, making basic UI adjustments, and practicing SEO/GEO-related optimization with the help of AI coding tools.
 
-- 🔎 **SEO & GEO Optimization**  
-  Optimizing website structure and content for search engines and A
-
-
-
-
-  I-generated search results, including metadata, sitemap, robots.txt, structured content, and better discoverability.
+- **GitHub Pages Portfolio Website**  
+  I built a simple personal portfolio website using GitHub Pages to organize my project experience, academic interests, and contact information.
 
 ---
 
-## 🛠️ Skills & Tools
+## 📌 Project Experience
 
-- **Programming:** Python, JavaScript, HTML, CSS
-- **AI / NLP:** LLMs, Prompt Engineering, Sentiment Analysis, FinBERT
-- **Data Processing:** Pandas, JSONL, CSV, Dataset Cleaning
-- **Web Development:** GitHub Pages, Vite, React-based frontend projects
-- **Project Tools:** Git, GitHub, PyCharm, VS Code
-
----
-
-## 📌 Projects
-
-### 1. Hansorri — AI Bilingual Learning Assistant
-
-Hansorri is a bilingual learning assistant designed to support Chinese-Korean students in classroom learning.  
-The project focuses on real-time understanding, translation support, learning summaries, bilingual records, and keyword extraction.
-
-My work includes:
-
-- Website UI optimization
-- Homepage content refinement
-- SEO and GEO optimization
-- Deployment and GitHub-based project management
-- Improving the presentation of the product value and user experience
+- Python project practice
+- Basic HTML / CSS editing
+- GitHub README writing
+- GitHub Pages deployment
+- Financial NLP dataset processing
+- FPB / FiQA / FinQA
+- Basic FinBERT experiment practice
+- Hansorri website improvement
+- SEO / GEO optimization practice
+- AI-assisted coding workflow
 
 ---
 
-### 2. Financial NLP Capstone Project
+## 📂 Projects
 
-This is my current graduation capstone project related to financial text analysis and Large Language Models.
+### Financial NLP Capstone Project
 
-Main tasks include:
+A graduation capstone project related to financial text analysis and Large Language Models.
 
-- Collecting and organizing financial NLP datasets
-- Processing datasets such as FPB, FiQA, and FinQA
-- Building unified data formats for downstream experiments
-- Conducting sentiment analysis experiments
-- Training and evaluating FinBERT-based models
-- Preparing research materials and project documentation
+Main practice includes:
+
+- Organizing financial NLP datasets
+- Building unified data formats
+- Practicing basic sentiment analysis experiments
+- Working with FinBERT-related training and evaluation
+- Preparing project documentation
+
+### Hansorri — Korean Classroom Learning Assistant Prototype
+
+Hansorri is a Korean classroom learning assistant prototype developed as a team project with a friend.
+
+The project is still under preparation and has not been officially launched yet.
+
+My current contribution includes:
+
+- Improving the project website draft
+- Refining homepage content
+- Making basic UI adjustments
+- Practicing SEO/GEO-related optimization
+- Using AI coding tools to support development and editing
 
 ---
 
 ## 🎯 Academic Goal
 
-I plan to continue studying Artificial Intelligence and Natural Language Processing, especially in areas related to LLMs, multilingual learning, and financial NLP.
+I plan to continue improving my practical skills in Artificial Intelligence and Natural Language Processing, especially in multilingual learning support tools and financial NLP applications.
 
 ---
 
@@ -85,3 +86,4 @@ I plan to continue studying Artificial Intelligence and Natural Language Process
 
 - Email: [yuanguangyuan521@gmail.com](mailto:yuanguangyuan521@gmail.com)
 - GitHub: [showlaoyuan](https://github.com/showlaoyuan)
+- Portfolio Website: [showlaoyuan.github.io](https://showlaoyuan.github.io/)
