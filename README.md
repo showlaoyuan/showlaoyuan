@@ -23,6 +23,8 @@ Started as a team capstone focused on financial NLP data preparation and evaluat
 
 A live Korean-to-Chinese classroom translation product currently used by customers in Korea. Hansorri supports real-time lecture translation, online-class and audio-file translation, searchable course archives, exportable bilingual notes, and picture-in-picture captions. I work on product planning, Chinese localization, UI/UX feedback, testing, and iteration alongside the team developing the translation engine and application.
 
+[Official website](https://hansorri.com/) · [Available on the Apple App Store](https://apps.apple.com/kr/app/id6764813419)
+
 ## Links and Contact
 
 - [GitHub](https://github.com/showlaoyuan)
